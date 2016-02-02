@@ -1,0 +1,3 @@
+bes_core_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: BESCoreBundle:Default:index }

@@ -1,0 +1,14 @@
+parameters:
+#    skcms_tracking.example.class: SKCMS\TrackingBundle\Example
+
+services:
+    skcms_tracking.responseAdapter:
+        class: SKCMS\TrackingBundle\ViewTracker\ResponseAdapter
+        arguments: [@twig,@service_container]
+    skcms_tracking.listener:
+        class: SKCMS\TrackingBundle\ViewTracker\ViewTrackerListener
+        arguments: [@service_container,@security.context,@skcms_tracking.responseAdapter]
+        tags:
+#            - { name: kernel.event_listener, event: kernel.request, method: onKernelRequest,priority: 0 }
+            - { name: kernel.event_listener, event: kernel.controller, method: onKernelController,priority: 0 }
+            - { name: kernel.event_listener, event: kernel.response, method: adaptResponse }

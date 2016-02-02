@@ -1,0 +1,9 @@
+parameters:
+    entity: 'test'
+#    skcms_contact.example.class: SKCMS\ContactBundle\Example
+
+services:
+    skcms.contact.form:
+            class: SKCMS\ContactBundle\Service\Form
+            arguments: [@form.factory,@twig,@service_container]
+

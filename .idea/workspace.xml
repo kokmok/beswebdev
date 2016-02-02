@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="570f9117-9771-4cb1-b0e3-c1ad8773f579" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-bold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-bold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-bold-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-light-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-light-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-light-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-regular-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-stencil-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-stencil-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-stencil-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-stencil-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/content" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/content/city-far.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/content/city-road.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/content/highway.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/design" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/design/arrow-button-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/design/arrow-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/design/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/design/macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/AdminTopBar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/DependencyInjection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/css/toDelete" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/css/toDelete/themes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/ajax-loaders" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/gallery" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/gallery/.tmb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/gallery/thumbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/iphone-style-checkboxes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/ajax-loaders" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/gallery" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/gallery/.tmb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/gallery/thumbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/iphone-style-checkboxes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js/chart" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js/chart/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js/toDelete" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/misc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/misc/elfinder-connector" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/translations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element/List" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element/Nav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element/Template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Tests/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/DependencyInjection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Form/Type" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/config/routing" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/dummy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/dummy/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/clike" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/htmlmixed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/javascript" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/flashupload" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/flashupload/flash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery/colorbox" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery/colorbox/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery/colorbox/images/ie6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/imageresize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/imageresize/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/watermark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/zip/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/icons" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/icons/16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/icons/32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/loaders" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/toolbar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/icons" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/icons/16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/icons/32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/loaders" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/toolbar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/views/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/DependencyInjection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Entity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/translations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views/Email" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views/Mail" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Service" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Tests/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Command" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/DependencyInjection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Entity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Entity/Translation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Listener" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Manager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Repository" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/translations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/views/Default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Service" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Slug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Tests/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/DependencyInjection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Event" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/translations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/views/menu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/views/pages-templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Service" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Tests/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/DependencyInjection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Entity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/public" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/public/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/translations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/views/Default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Tests/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/ViewTracker" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Command" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/DependencyInjection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Entity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/translations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/ChangePassword" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/Default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/Profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/Security" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Tests/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-light-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/fonts/oswald-stencil-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js/custom.js" />
+    </list>
+    <ignored path="BES.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BES" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1366" />
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKCMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="570f9117-9771-4cb1-b0e3-c1ad8773f579" name="Default" comment="" />
+      <created>1454450472698</created>
+      <option name="number" value="Default" />
+      <updated>1454450472698</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1366" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

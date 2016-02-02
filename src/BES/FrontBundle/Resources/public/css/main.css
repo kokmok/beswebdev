@@ -1,0 +1,142 @@
+
+/* 
+    Created on : 15-janv.-2015, 15:25:20
+    Author     : Jona
+*/
+body{font-family:  'Raleway', sans-serif;}
+h1 {font-family: 'oswaldlight',Arial,sans;text-transform: uppercase;font-size: 2.5em;margin-bottom:37px;letter-spacing: 1px;}
+.centered-article h2 {margin:0;font-size:2em;margin-top:-20px;margin-bottom:1em;}
+.centered-article .summary {color:#8e8e8e;}
+.centered-article .page-content p {margin:40px 0;text-align:left;}
+.page-illu {margin-top:40px;}
+.page-illu img {width:100%;padding:3px;border:1px solid #8e8e8e;}
+
+/*.centered-article .page-content p:nth-of-type(odd) {text-align:left;padding-right:30%;border-right:3px solid #8e8e8e;}
+.centered-article .page-content p:nth-of-type(even) {text-align:right;padding-left:30%;border-left:3px solid #8e8e8e;}*/
+.centered-article .page-content h3 {margin:40px 0 -20px;text-align:left;}
+/*.centered-article .page-content h3:nth-of-type(odd) {text-align:left;padding-right:30%;}
+.centered-article .page-content h3:nth-of-type(even) {text-align:right;padding-left:30%;}*/
+
+.no-margin {margin:0 !important;}
+.no-padding {padding:0 !important;}
+
+header {height:498px;position: relative;overflow: hidden;margin-bottom:65px;}
+#header-image{position: absolute;min-width:100%;min-height:100%;top:0;left:0;}
+#header-nav{margin-top:100px;font-family: 'oswaldlight',Arial,sans;letter-spacing: 1px;}
+#header-nav a,#footer-nav a {color:#FFF;font-family: 'oswaldlight', Arial, sans;text-transform: uppercase;font-size: 1.2em;display:block;
+    -webkit-transition: background-color 200ms linear;
+    -moz-transition: background-color 200ms linear;
+    -o-transition: background-color 200ms linear;
+    -ms-transition: background-color 200ms linear;
+    transition: background-color 200ms linear;
+background:rgba(255,255,255,0);}
+
+#header-nav a:hover,#footer-nav a:hover,#header-nav a.current,#footer-nav a.current {text-decoration: none;background:rgba(255,255,255,.3);}
+#header-nav li,#footer-nav li {border-right:1px solid rgba(255,255,255,.3);display:inline-block;height:35px;vertical-align: middle;line-height:35px;}
+#header-nav li:last-of-type,#footer-nav li:last-of-type {border-right:0;}
+
+#logoLink {position: relative;z-index:2;display:block;text-align:center;padding:115px 0 0;}
+#logoLink img {margin-left:-7px;}
+
+.tile {height:300px;color:#FFF;margin-bottom:25px;}
+.tile-wrapper {height:100%;background-position: center center;}
+.tileLink{color:#fff;display:block;background:url(../images/design/arrow-button.png) no-repeat center 85%; height:100%;width:100%;padding-top:45px;position:relative;}
+.tileLink:hover{}
+.tileLink:hover,.tileLink:focus,.tileLink:active{background-image:url(../images/design/arrow-button-hover.png);text-decoration:none;color:#fff;}
+.tile-h1 {margin:0 0 0;}
+.tile-h2 {margin:0 0 20px;font-size: 1em;text-transform: uppercase;}
+.tile-hr{width:60px;}
+
+.student-tile {margin-bottom: 50px;overflow:hidden;}
+.student-tileLink{color: #FFF;display: block;width:100%;height:100%;background:url(../images/design/arrow-button.png) no-repeat center 85%; }
+.student-tile-h1 {margin:0 0 0;font-size: 1.4em;padding-top: 20px;}
+.student-tile-h2 {margin:0 0 20px;font-size: 1em;text-transform: uppercase;}
+.slide-text {position:absolute;left:-100%;background:rgba(255,255,255,.0);width:100%;height:100%;
+-webkit-transition: left 100ms linear;
+    -moz-transition: left 100ms linear;
+    -o-transition: left 100ms linear;
+    -ms-transition: left 100ms linear;
+    transition: left 100ms linear;
+font-size:1.2em;text-align: center;text-transform: uppercase;padding:10px 20px;color:#fff;}
+.student-tileLink:hover .slide-text,.tileLink:hover .slide-text{left:0;}
+.slide-title{position: absolute;right:0;width:100%;
+-webkit-transition: left 100ms linear;
+    -moz-transition: left 100ms linear;
+    -o-transition: left 100ms linear;
+    -ms-transition: left 100ms linear;
+    transition: left 100ms linear;}
+.student-tileLink:hover .slide-title,.tileLink:hover .slide-title{right:-100%;}
+
+.container {margin-bottom:65px;position: relative;}
+
+
+.pink {background-color:rgba(174,111,117,.8);-webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;}
+/*.pink .slide-text {color:rgba(174,111,117,1);}*/
+.pink:hover {background-color: rgba(174,111,117,.9);}
+.student-tile .pink{background-color:rgba(174,111,117,.5);-webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;}
+
+.red {background-color:rgba(210,121,97,.8);-webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;}
+/*.red .slide-text {color:rgba(210,121,97,1);}*/
+.red:hover {
+    background-color: rgba(210,121,37,.9);
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+}
+.blue {background-color: rgba(34,81,95,.8);-webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;}
+/*.blue .slide-text {color:rgba(34,81,95,1);}*/
+.blue:hover {
+    background-color: rgba(34,81,95,.9);
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+}
+#contact-us{font-size:2em;text-transform: uppercase;font-family: 'oswaldlight',Arial,sans;margin-bottom: 80px;margin-top: 35px;}
+#contact-us a{color:#333;}
+/***FOOTER */
+footer {background:#2d2725;width:100%;position: relative;}
+#footer-icon{position:absolute;top:-26px;width:100%;}
+footer .row {margin-top:26px;}
+#footer-nav{margin-top:65px;letter-spacing: 1px;}
+#footer-links {margin-top:34px;padding-bottom:34px;}
+#credits {color:#9c9a9a;text-transform: uppercase;font-size:0.8em;padding-top:40px;}
+#credits a{color:#4db3b4;}
+
+#footer-logo{width:100px;margin-left:-3px;}
+#quick-links {padding-top:35px;}
+ 
+
+.container-contact{width:66%;margin:0 auto;}
+.form-row {margin-bottom: 25px;}
+.formElement {position: relative;}
+.form-control{width:100%;height:40px;border:1px solid #3d6672;border-radius: 0px;padding:10px;}
+#contact-message {height:200px;}
+#submit-btn{background:#3d6672;color:#FFF;text-transform: uppercase;}
+#submit-btn:hover{background:#fff;border:1px solid #3d6672;color:#3d6672;}
+.form-error {position:absolute;top:-40px;background:rgba(210,121,37,.9);color:#FFF;padding:10px 20px; }
+.form-error:after {top: 100%; left: 10%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-color: rgba(136, 183, 213, 0); border-top-color: rgba(210,121,37,.9); border-width: 10px; margin-left: -10px;}
+
+.filters {font-style: italic;font-size:18px;padding-bottom:20px;}
+.category-filter{padding:5px 15px;color:#333;}
+.category-filter:hover{text-decoration: none;color:#333;}
+.category-filter.selected{background:#3d6672;color:#fff;}

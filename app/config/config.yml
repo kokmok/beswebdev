@@ -1,0 +1,294 @@
+imports:
+    - { resource: parameters.yml }
+    - { resource: security.yml }
+
+framework:
+    #esi:             ~
+    translator:      { fallbacks: ["%locale%"] }
+    secret:          "%secret%"
+    router:
+        resource: "%kernel.root_dir%/config/routing.yml"
+        strict_requirements: ~
+    form:            ~
+    csrf_protection: ~
+    validation:      { enable_annotations: true }
+    templating:
+        engines: ['twig']
+        #assets_version: SomeVersionScheme
+    default_locale:  "%locale%"
+    trusted_proxies: ~
+    session:         ~
+    fragments:       ~
+    http_method_override: true
+
+# Twig Configuration
+twig:
+    debug:            "%kernel.debug%"
+    strict_variables: "%kernel.debug%"
+    form:
+        resources:
+            - 'SKCMSAdminBundle:Form:fields.html.twig'
+
+# Assetic Configuration
+assetic:
+    debug:          "%kernel.debug%"
+    use_controller: false
+    bundles:        [SKCMSAdminBundle ]
+    #java: /usr/bin/java
+    filters:
+        cssrewrite: ~
+        #closure:
+        #    jar: "%kernel.root_dir%/Resources/java/compiler.jar"
+        #yui_css:
+        #    jar: "%kernel.root_dir%/Resources/java/yuicompressor-2.4.7.jar"
+
+# Doctrine Configuration
+doctrine:
+    dbal:
+        driver:   "%database_driver%"
+        host:     "%database_host%"
+        port:     "%database_port%"
+        dbname:   "%database_name%"
+        user:     "%database_user%"
+        password: "%database_password%"
+        charset:  UTF8
+        # if using pdo_sqlite as your database driver:
+        #   1. add the path in parameters.yml
+        #     e.g. database_path: "%kernel.root_dir%/data/data.db3"
+        #   2. Uncomment database_path in parameters.yml.dist
+        #   3. Uncomment next line:
+        #     path:     "%database_path%"
+
+    orm:
+        auto_generate_proxy_classes: "%kernel.debug%"
+        auto_mapping: true
+        dql:
+            numeric_functions:
+                Rand: SKCMS\CoreBundle\DoctrineFunctions\Rand
+
+
+stof_doctrine_extensions:
+    orm:
+        default:
+            sluggable: true
+            translatable: true
+
+# Swiftmailer Configuration
+swiftmailer:
+    transport: "%mailer_transport%"
+    host:      "%mailer_host%"
+    username:  "%mailer_user%"
+    password:  "%mailer_password%"
+    spool:     { type: memory }
+    
+jonlil_ck_finder:
+    license: # optional, can be used in demo mode also
+        key: ""
+        name: ""
+    baseDir: "%assetic.read_from%"
+    baseUrl: "/uploads/"  # path where your files will be stored
+    service: "php"
+    
+skcmsck_finder:
+    license: # optional, can be used in demo mode also
+        key: ""
+        name: ""
+    baseDir: "%assetic.read_from%"
+    baseUrl: "/uploads/"  # path where your files will be stored
+    service: "php"
+    
+fos_user:
+    db_driver: orm # other valid values are 'mongodb', 'couchdb' and 'propel'
+    firewall_name: main
+    user_class: SKCMS\UserBundle\Entity\User
+
+
+skcms_contact:
+    entity: \BES\ContactBundle\Entity\ContactMessage
+    form_type: \BES\ContactBundle\Form\ContactMessageType
+    email_notification: 
+        subject: 'New Message'
+        target: [jona303@gmail.com,jonathancambier@gmail.com]
+#        
+skcms_admin:
+            
+    modules:
+        user:
+            enabled: true
+            userEntity: ~
+
+        contact:
+            enabled: true
+            messageEntity:
+                name: "ContactMessage"
+                beautyName: 'Messages Postés'
+                bundle: 'BESContact'
+                class: \BES\ContactBundle\Entity\ContactMessage
+                form: #\SK\CoreBundle\Form\SlideShowElementType
+                listProperties: 
+                    email:
+                        dataName: 'email'
+                        beautyName: 'E-mail'
+                        type: 'string'
+#                        
+                        
+                    
+    siteInfo:
+        homeRoute: "skcms_front_home"
+        locales: [fr] 
+    
+    menuGroups:
+        group1:
+            id: 1
+            name: 'Documents'
+              
+    
+    entities:
+        Page:
+            name: "Page"
+            beautyName: 'Pages'
+            bundle: 'BESCore'
+            bundle: 'BESCore'
+            class: \BES\CoreBundle\Entity\Page
+            form: \BES\CoreBundle\Form\PageType
+            menuGroup: 1
+            listProperties: 
+                name:
+                    dataName: 'title'
+                    beautyName: 'Titre'
+                    type: 'string'
+#         
+        Cours:
+            name: "Cours"
+            beautyName: 'Cours'
+            bundle: 'BESFront'
+            class: \BES\FrontBundle\Entity\Cours
+            form: \BES\FrontBundle\Form\CoursType
+            menuGroup: 1
+            listProperties: 
+                name:
+                    dataName: 'title'
+                    beautyName: 'Titre'
+                    type: 'string'
+        Work:
+            name: "Work"
+            beautyName: 'Travaux'
+            bundle: 'BESCore'
+            class: \BES\CoreBundle\Entity\Work
+            form: \BES\CoreBundle\Form\WorkType
+            menuGroup: 1
+            listProperties: 
+                name:
+                    dataName: 'title'
+                    beautyName: 'Titre'
+                    type: 'string'
+#        
+#        RoomFeature:
+#            name: "RoomFeature"
+#            beautyName: 'Features'
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\RoomFeature
+#            form: \FDB\CoreBundle\Form\RoomFeatureType
+#            menuGroup: 1
+#            listProperties: 
+#                name:
+#                    dataName: 'name'
+#                    beautyName: 'Name'
+#                    type: 'string'
+#        
+#        
+#        RoomPolicy:
+#            name: "RoomPolicy"
+#            beautyName: 'Room Policy'
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\RoomPolicy
+#            form: \FDB\CoreBundle\Form\RoomPolicyType
+#            menuGroup: 1
+#            listProperties: 
+#                name:
+#                    dataName: 'name'
+#                    beautyName: 'Name'
+#                    type: 'string'
+#            sort: 'position'
+#        
+#        Hall:
+#            name: "Hall"
+#            beautyName: 'Salles de formation'
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\Hall
+#            form: \FDB\CoreBundle\Form\HallType
+#            menuGroup: 1
+#            listProperties: 
+#                name:
+#                    dataName: 'name'
+#                    beautyName: 'Name'
+#                    type: 'string'
+#                    
+#        HallPolicy:
+#            name: "HallPolicy"
+#            beautyName: 'Hall Policy'
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\HallPolicy
+#            form: \FDB\CoreBundle\Form\HallPolicyType
+#            menuGroup: 1
+#            listProperties: 
+#                name:
+#                    dataName: 'name'
+#                    beautyName: 'Name'
+#                    type: 'string'
+#            sort: 'position'
+#        
+#        News:
+#            name: "News"
+#            beautyName: 'News'
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\News
+#            form: \FDB\CoreBundle\Form\NewsType
+#            menuGroup: 1
+#            listProperties: 
+#                title:
+#                    dataName: 'title'
+#                    beautyName: 'Titre'
+#                    type: 'string'
+#        HomeInformation:
+#            name: "HomeInformation"
+#            beautyName: 'Information sur Accueil'
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\HomeInformation
+#            form: \FDB\CoreBundle\Form\HomeInformationType
+#            menuGroup: 1
+#            listProperties: 
+#                title:
+#                    dataName: 'content'
+#                    beautyName: 'Titre'
+#                    type: 'string'
+#        Event:
+#            name: "Event"
+#            beautyName: 'Events'
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\Event
+#            form: \FDB\CoreBundle\Form\EventType
+#            menuGroup: 1
+#            listProperties: 
+#                name:
+#                    dataName: 'name'
+#                    beautyName: 'Titre'
+#                    type: 'string'
+#                dateStart:
+#                    dataName: 'dateStart'
+#                    beautyName: 'Date de début'
+#                    type: 'date'
+#        
+#        HomeSliderElement:
+#            name: "HomeSliderElement"
+#            beautyName: "Slider page d'accueil"
+#            bundle: 'FDBCore'
+#            class: \FDB\CoreBundle\Entity\HomeSliderElement
+#            form: \FDB\CoreBundle\Form\HomeSliderElementType
+#            menuGroup: 1
+#            listProperties: 
+#                title:
+#                    dataName: 'title'
+#                    beautyName: 'Titre'
+#                    type: 'string'
+#            sort: 'position'

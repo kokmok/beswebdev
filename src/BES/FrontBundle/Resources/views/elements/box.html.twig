@@ -1,0 +1,25 @@
+{%if box|getClass == 'Work'%}
+<article class="col-lg-2 col-md-2 col-sm-3 col-xs-6 text-center student-tile" style="height: 165px;">
+    <div style="background:url(images/content/city1.png);" class="tile-wrapper">
+        <a class="student-tileLink pink" href="#">
+        <div class="slide-title"><h1 class="student-tile-h1">{{box.title}}</h1>
+            <hr class="tile-hr">
+            <h2 class="student-tile-h2">{{box.student}}</h2></div>
+            <p class="slide-text">{{box.tags}}</p>
+
+
+        </a>
+    </div>
+</article>
+{%else%}
+<article class="{{colOffset}} col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center tile" style="height: 360px;">
+    <div style="background:url(images/content/city1.png);" class="tile-wrapper">
+        <a class="tileLink {{colorClass}}" href="{{link}}">
+            <h1 class="tile-h1">{{title}}</h1>
+            <hr class="tile-hr">
+            <h2 class="tile-h2">{{subtitle}}</h2>
+            <p>{{summary}}</p>
+        </a>
+    </div>
+</article>
+{%endif%}

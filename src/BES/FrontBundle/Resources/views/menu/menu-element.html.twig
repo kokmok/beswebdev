@@ -1,0 +1,9 @@
+
+<ul class="list-unstyled text-center">
+    {%for child in menuElement.children %}
+    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding">
+        <a href="{{child.link}}">{{child.name}}</a>
+
+    </li>
+    {%endfor%}
+</ul>

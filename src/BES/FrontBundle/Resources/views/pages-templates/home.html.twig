@@ -1,0 +1,59 @@
+{% extends 'BESFrontBundle::layout.html.twig' %}
+
+
+{%block content %}
+<section class="container">
+    <div class="row">
+    <article class="col-lg-12 col-md-12 col-sm-12 col-xs-12 centered-article text-center">
+        <h1>{{page.title}}</h1>
+        <p class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-lg-offset-3 col-md-offset-3 col-sm-offset-3 col-xs-offset-3 ">
+            {{page.summary|nl2br}}
+        </p>
+    </article>
+    </div>
+</section>
+<section class="container tile-container">
+    <div class="row">
+    {%set classes = ['blue','red','pink']%}
+    {%for box in boxes.children%}
+        <article class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center tile" >
+            <div class="tile-wrapper" style="background:url(images/content/city1.png);">
+                <a href="{{box.link}}" class="tileLink {{classes[loop.index%3]}}">
+                    <h1 class="tile-h1">{{box.name}}</h1>
+                    <hr class="tile-hr" />
+                    <h2 class="tile-h2">{{box.targetEntity.subtitle}}</h2>
+                    <p>{{box.targetEntity.summary}}</p>
+                </a>
+            </div>
+        </article>
+    {%endfor%}
+    {#<article class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center tile" >
+        <div class="tile-wrapper" style="background:url(images/content/city2.png);">
+            <a href="#" class="tileLink blue">
+                <h1 class="tile-h1">Coder</h1>
+                <hr class="tile-hr" />
+                <h2 class="tile-h2">Condition ternaire ou pas ?</h2>
+                <p>$interested?doInscription():readMore();</p>
+            </a>
+        </div>
+    </article>
+    <article class="col-lg-4 col-md-4 col-sm-6 col-sm-offset-3 col-md-offset-0 col-xs-12 text-center tile" >
+        <div class="tile-wrapper" style="background:url(images/content/city3.png);">
+            <a href="#" class="tileLink red">
+                <h1 class="tile-h1">Créer</h1>
+                <hr class="tile-hr" />
+                <h2 class="tile-h2">Webapp ou site web ?</h2>
+                <!--<p>alert('Hello');</p>-->
+            </a>
+        </div>
+    </article>#}
+    </div>
+</section>
+<section class="container">
+    <!--<div class="row">-->
+        <div class="text-center col-md-4 col-lg-4 col-sm-4 col-xs-12 col-md-offset-4 col-lg-offset-4 col-sm-offset-4" id="contact-us">
+            <a href="{{path('skcms_front_page',{slug:'contact'})}}"><img src="{{asset('bundles/besfront/images/design/contact-icon-grey.png')}}" alt="" /><br />Contactez-nous</a>
+        </div>
+    <!--</div>-->
+</section>
+{% endblock%}

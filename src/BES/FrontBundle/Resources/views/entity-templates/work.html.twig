@@ -1,0 +1,23 @@
+{% extends 'BESFrontBundle::layout.html.twig' %}
+
+{%block content %}
+    <section class="container">
+    <div class="row">
+    <article class="col-lg-12 col-md-12 col-sm-12 col-xs-12 centered-article text-center">
+        <h1>{{entity.title}}</h1>
+        <h2>{{entity.student}}</h2>
+        <p class=" summary col-lg-6 col-md-6 col-sm-6 col-xs-6 col-lg-offset-3 col-md-offset-3 col-sm-offset-3 col-xs-offset-3 ">
+            {{entity.tags}}
+        </p>
+        <div class="clearfix"></div>
+        <div class="page-content col-sm-7 col-sm-offset-1">
+            {{entity.content|raw}}
+        </div>
+        <div class="page-illu col-sm-3">
+            <img src="{{asset(entity.picture)}}" alt="" />
+        </div>
+    </article>
+    </div>
+</section>
+    
+{%endblock%}

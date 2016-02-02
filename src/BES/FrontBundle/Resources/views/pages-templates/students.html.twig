@@ -1,0 +1,25 @@
+{% extends 'BESFrontBundle:pages-templates:page.html.twig' %}
+{%block list %}
+    {% for list in page|skListEntities%}
+                <section class="container">
+        <div class="row">
+        
+        {%set classes = ['pink','red','blue']%}
+        {%set colOffset = ''%}
+        {%for box in list%}
+            {%if loop.index0 % 4 == 0%}
+                {%set classes = classes|shuffle%}
+                {#{%if loop.revindex == 2%}
+                    {%set colOffset = 'col-lg-offset-2 col-md-offset-2 col-sm-offset-2'%}
+                {%elseif loop.revindex == 2%}
+                    {%set colOffset = 'col-lg-offset-2 col-md-offset-2 col-sm-offset-2'%}
+                {%elseif loop.revindex == 1%}
+                    {%set colOffset = 'col-lg-offset-4 col-md-offset-4 col-sm-offset-4'%}
+                {%endif%}#}
+            {%endif%}
+            {% include 'BESFrontBundle:elements:box-small.html.twig' with {colorClass : classes[loop.index0%classes|length]} %}
+        {%endfor%}
+    {%endfor%}
+                </div>
+    </section>
+{%endblock%}

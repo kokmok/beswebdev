@@ -1,0 +1,4 @@
+services:
+#    bes_core.example:
+#        class: BES\CoreBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
