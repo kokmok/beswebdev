@@ -21,6 +21,7 @@ class CoursType extends \SKCMS\CoreBundle\Form\EntityType
             ->add('summary',null,['required'=>false])
             ->add('content','ckeditor',['required'=>false])
             ->add('periodes')
+            ->add('category')
             ->add('picture',new \SKCMS\CoreBundle\Form\SKImageType())
         ;
     }

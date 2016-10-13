@@ -7,9 +7,9 @@ body{font-family:  'Raleway', sans-serif;}
 h1 {font-family: 'oswaldlight',Arial,sans;text-transform: uppercase;font-size: 2.5em;margin-bottom:37px;letter-spacing: 1px;}
 .centered-article h2 {margin:0;font-size:2em;margin-top:-20px;margin-bottom:1em;}
 .centered-article .summary {color:#8e8e8e;}
-.centered-article .page-content p {margin:40px 0;text-align:left;}
+.centered-article .page-content p {margin:40px 0;/*text-align:left;*/}
 .page-illu {margin-top:40px;}
-.page-illu img {width:100%;padding:3px;border:1px solid #8e8e8e;}
+.page-illu img {width:100%;padding:3px;/*border:1px solid #8e8e8e;*/}
 
 /*.centered-article .page-content p:nth-of-type(odd) {text-align:left;padding-right:30%;border-right:3px solid #8e8e8e;}
 .centered-article .page-content p:nth-of-type(even) {text-align:right;padding-left:30%;border-left:3px solid #8e8e8e;}*/
@@ -140,3 +140,6 @@ footer .row {margin-top:26px;}
 .category-filter{padding:5px 15px;color:#333;}
 .category-filter:hover{text-decoration: none;color:#333;}
 .category-filter.selected{background:#3d6672;color:#fff;}
+
+
+/*.tile-sizer {!*padding:0 !important;*! box-sizing: content-box !important;}*/

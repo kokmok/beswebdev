@@ -14,9 +14,11 @@
         <div class="page-content col-sm-7 col-sm-offset-1">
             {{entity.content|raw}}
         </div>
+        {% if entity.picture is not null %}
         <div class="page-illu col-sm-3">
             <img src="{{asset(entity.picture)}}" alt="" />
         </div>
+        {% endif %}
     </article>
     </div>
 </section>

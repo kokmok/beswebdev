@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570f9117-9771-4cb1-b0e3-c1ad8773f579" name="Default" comment="">
+    <list default="true" readonly="true" id="570f9117-9771-4cb1-b0e3-c1ad8773f579" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES" />
@@ -41,181 +41,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/design/logo.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/images/design/macbook.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/AdminTopBar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/DependencyInjection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/css/toDelete" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/css/toDelete/themes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/fonts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/ajax-loaders" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/gallery" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/gallery/.tmb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/gallery/thumbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/images/iphone-style-checkboxes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/ajax-loaders" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/gallery" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/gallery/.tmb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/gallery/thumbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/img/iphone-style-checkboxes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js/chart" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js/chart/src" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/js/toDelete" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/misc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/public/misc/elfinder-connector" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/translations" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element/List" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element/Nav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Element/Template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Resources/views/Page" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Tests" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/AdminBundle/Tests/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/DependencyInjection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Form/Type" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/config/routing" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/dummy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/dummy/lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/lib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/clike" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/htmlmixed" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/javascript" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/fileeditor/codemirror/mode/xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/flashupload" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/flashupload/flash" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery/colorbox" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery/colorbox/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/gallery/colorbox/images/ie6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/imageresize" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/imageresize/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/watermark" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/plugins/zip/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/icons" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/icons/16" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/icons/32" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/loaders" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/kama/images/toolbar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/icons" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/icons/16" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/icons/32" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/loaders" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/public/skins/v1/images/toolbar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/views" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CKFinderBundle/Resources/views/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/DependencyInjection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Entity" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/translations" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views/Email" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Resources/views/Mail" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Service" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Tests" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/ContactBundle/Tests/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Command" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/DependencyInjection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Entity" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Entity/Translation" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Listener" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Manager" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Repository" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/translations" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/views" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Resources/views/Default" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Service" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Slug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Tests" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/CoreBundle/Tests/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/DependencyInjection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Event" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/translations" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/views" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/views/menu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Resources/views/pages-templates" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Service" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Tests" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Tests/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/FrontBundle/Twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/DependencyInjection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Entity" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/public" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/public/js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/translations" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/views" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Resources/views/Default" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Tests" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/Tests/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/TrackingBundle/ViewTracker" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Command" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Controller" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/DependencyInjection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Entity" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/translations" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/ChangePassword" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/Default" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/Profile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Resources/views/Security" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Tests" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SKCMS/UserBundle/Tests/Controller" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/bootstrap-theme.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/bootstrap.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/fonts.css" />
@@ -247,12 +72,154 @@
     <favorites_list name="BES" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="144">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameters.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cours.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/cours.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/work.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#12#44#0#Twig" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1638">
+              <caret line="91" column="70" selection-start-line="91" selection-start-column="70" selection-end-line="91" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/home.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menuBox.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/menuBox.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="box.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/box.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="151" selection-start-line="14" selection-start-column="151" selection-end-line="14" selection-end-column="151" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="box-small.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/box-small.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrontController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Controller/FrontController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Controller/PageController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="students.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/students.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SKCMSAdminExtension.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Twig/SKCMSAdminExtension.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3006">
+              <caret line="167" column="20" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -260,17 +227,78 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Twig HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FrameworkRootSettings" id="Symfony2">
+    <option name="typedPaths">
+      <list>
+        <element elementPath="$PROJECT_DIR$/app" typeId="app_directory" />
+        <element elementPath="$PROJECT_DIR$/vendor" typeId="vendor_directory" />
+        <element elementPath="$PROJECT_DIR$/web" typeId="web_directory" />
+      </list>
+    </option>
+    <option name="myTypedPaths">
+      <list>
+        <element elementPath="$PROJECT_DIR$/app" typeId="app_directory" />
+        <element elementPath="$PROJECT_DIR$/vendor" typeId="vendor_directory" />
+        <element elementPath="$PROJECT_DIR$/web" typeId="web_directory" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/vendor/skcms/tracking-bundle/SKCMS/TrackingBundle/ViewTracker/ViewTrackerListener.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/Listener/OneToManyDeleteListener.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/DependencyInjection/SKCMSAdminExtension.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/Controller/AdminController.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/DependencyInjection/Configuration.php" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/cours.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/CoreBundle/Form/PageType.php" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/BES/CoreBundle/Entity/PageRepository.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/core-bundle/SKCMS/CoreBundle/Entity/SKBasePageRepository.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Controller/PageController.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Service/SKCMSVarsInjector.php" />
+        <option value="$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Controller/FrontController.php" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Entity/Cours.php" />
+        <option value="$PROJECT_DIR$/src/BES/CoreBundle/Entity/UECategory.php" />
+        <option value="$PROJECT_DIR$/src/BES/CoreBundle/Repository/UECategoryRepository.php" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Form/CoursType.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/box-small.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Controller/PageController.php" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/students.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/box.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js/custom.js" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/main.css" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/menuBox.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/home.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/page.html.twig" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1366" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1366" />
-    <option name="height" value="772" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -297,6 +325,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -313,7 +342,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -323,11 +352,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -337,30 +366,780 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cours" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SKCMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKCMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Twig" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKCMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages-templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity-templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BES" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/app_dev.php" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="RunManager" selected="PHP Built-in Web Server.BES">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BES" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/web" port="2016" router_script="$PROJECT_DIR$/web/app_dev.php">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.BES" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="SvnFileUrlMappingImpl">
     <option name="myMappingRoots">
@@ -385,33 +1164,53 @@
       <changelist id="570f9117-9771-4cb1-b0e3-c1ad8773f579" name="Default" comment="" />
       <created>1454450472698</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1454450472698</updated>
+      <workItem from="1465331329319" duration="7048000" />
+      <workItem from="1466066829807" duration="5827000" />
+      <workItem from="1473941490405" duration="1430000" />
+      <workItem from="1474270480865" duration="23000" />
+      <workItem from="1474378001770" duration="2540000" />
+      <workItem from="1474539237675" duration="734000" />
+      <workItem from="1476357390352" duration="117000" />
+      <workItem from="1476363221245" duration="3949000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21668000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1366" y="-4" width="1366" height="772" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2962121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287037" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -423,11 +1222,398 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/tracking-bundle/SKCMS/TrackingBundle/ViewTracker/ViewTrackerListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="116" column="35" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/core-bundle/SKCMS/CoreBundle/Service/ListUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/Resources/views/Element/Nav/left-bar.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/Controller/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="46" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="93" column="57" selection-start-line="0" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/DependencyInjection/SKCMSAdminExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/Listener/OneToManyDeleteListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/admin-bundle/SKCMS/AdminBundle/Resources/views/Form/fields.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/egeloen/ckeditor-bundle/IvoryCKEditorBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/CoreBundle/Form/WorkType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/CoreBundle/Form/PageType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/core-bundle/SKCMS/CoreBundle/Form/SKImageType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/core-bundle/SKCMS/CoreBundle/Service/SlugUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/CoreBundle/Entity/PageRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/core-bundle/SKCMS/CoreBundle/Repository/SKEntityRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="0" selection-start-line="54" selection-start-column="4" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/core-bundle/SKCMS/CoreBundle/Entity/SKBasePageRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/CoreBundle/Entity/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Controller/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Event/SKCMSFrontEvents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Event/PreRenderEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Service/SKCMSVarsInjector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Entity/Cours.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="96" column="34" selection-start-line="73" selection-start-column="88" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/CoreBundle/Form/UECategoryType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/CoreBundle/Entity/UECategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding>
+            <element signature="e#41#74#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/CoreBundle/Repository/UECategoryRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Form/CoursType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5274">
+          <caret line="293" column="18" selection-start-line="293" selection-start-column="18" selection-end-line="293" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/box-small.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bundles/besfront/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" column="70" selection-start-line="91" selection-start-column="70" selection-end-line="91" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Controller/FrontController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Controller/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/students.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/skcms/front-bundle/SKCMS/FrontBundle/Twig/SKCMSAdminExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3006">
+          <caret line="167" column="20" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/box.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="151" selection-start-line="14" selection-start-column="151" selection-end-line="14" selection-end-column="151" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/cours.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/work.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#12#44#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/menuBox.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/home.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

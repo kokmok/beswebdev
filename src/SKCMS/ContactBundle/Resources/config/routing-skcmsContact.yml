@@ -1,3 +1,0 @@
-skcms_contact_form:
-    pattern:  /postForm
-    defaults: { _controller: SKCMSContactBundle:Form:index }

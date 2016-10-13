@@ -1,6 +1,6 @@
 
 <article class="{{colOffset}} col-lg-3 col-md-3 col-sm-6 col-xs-12 text-center student-tile" style="height: 165px;">
-    <div style="background:url(images/content/city1.png);" class="tile-wrapper">
+    <div {% if box.picture is defined %}style="background:url({{ asset(box.picture) }});"{% endif %} class="tile-wrapper">
         <a class="tileLink {{colorClass}}" href="{{box|skEntityPath('html',false)}}">
         <div class="title slide-title"><h1 class="tile-h1">{{box.title}}</h1>
             <hr class="tile-hr">

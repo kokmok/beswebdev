@@ -1,3 +1,0 @@
-skcms_tracking_updater:
-    pattern:  /trk/view/{id}
-    defaults: { _controller: SKCMSTrackingBundle:Updater:update }

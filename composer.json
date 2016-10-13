@@ -9,7 +9,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "symfony/symfony": "2.3.*",
+        "symfony/symfony": "2.8.*",
         "doctrine/orm": "~2.2,>=2.2.3,<2.5",
         "doctrine/dbal": "<2.5",
         "doctrine/doctrine-bundle": "~1.2",
@@ -21,10 +21,15 @@
         "sensio/framework-extra-bundle": "~3.0,>=3.0.2",
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
-        "jonlil/ckfinder-bundle": "dev-master",
         "stof/doctrine-extensions-bundle": "~1.1@dev",
-        "friendsofsymfony/user-bundle": "~2.0@dev",
-        "tchwork/debug-bundle": "~1.4"
+        "friendsofsymfony/user-bundle": "2.0.0-alpha2",
+        "tchwork/debug-bundle": "~1.4",
+        "skcms/admin-bundle": "dev-master@dev",
+        "skcms/core-bundle": "dev-master@dev",
+        "skcms/user-bundle": "dev-master@dev",
+        "skcms/contact-bundle": "dev-master@dev",
+        "skcms/tracking-bundle": "dev-master@dev",
+        "skcms/front-bundle": "dev-master@dev"
     },
     "scripts": {
         "post-install-cmd": [

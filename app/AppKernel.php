@@ -18,8 +18,7 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new SKCMS\AdminBundle\SKCMSAdminBundle(),
             new \Ivory\CKEditorBundle\IvoryCKEditorBundle(),
-            new Jonlil\CKFinderBundle\JonlilCKFinderBundle('IvoryCKEditorBundle'),
-            new SKCMS\CKFinderBundle\SKCMSCKFinderBundle(),
+            new FM\ElfinderBundle\FMElfinderBundle(),
             new SKCMS\CoreBundle\SKCMSCoreBundle(),
             new SKCMS\ContactBundle\SKCMSContactBundle(),
             new FOS\UserBundle\FOSUserBundle(),
@@ -36,6 +35,8 @@ class AppKernel extends Kernel
             $bundles[] = new Symfony\Bundle\WebProfilerBundle\WebProfilerBundle();
             $bundles[] = new Sensio\Bundle\DistributionBundle\SensioDistributionBundle();
             $bundles[] = new Sensio\Bundle\GeneratorBundle\SensioGeneratorBundle();
+            $bundles[] = new \Symfony\Bundle\DebugBundle\DebugBundle();
+
         }
 
         return $bundles;

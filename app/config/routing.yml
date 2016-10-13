@@ -1,4 +1,8 @@
-
+skcms_admin:
+    resource: "@SKCMSAdminBundle/Resources/config/routing.yml"
+    prefix:   /admin
+elfinder:
+     resource: "@FMElfinderBundle/Resources/config/routing.yml"
 bes_contact:
     resource: "@BESContactBundle/Resources/config/routing.yml"
     prefix:   /
@@ -37,27 +41,8 @@ skcms_front:
     resource: "@SKCMSFrontBundle/Resources/config/routing.yml"
     prefix:   /
 
-skcms_user:
-    resource: "@SKCMSUserBundle/Resources/config/routing.yml"
-    prefix:   /
-
 skcms_contact:
     resource: "@SKCMSContactBundle/Resources/config/routing-skcmsContact.yml"
     prefix:   /
 
-skcms_core:
-    resource: "@SKCMSCoreBundle/Resources/config/routing.yml"
-    prefix:   /
-
-skcmsck_finder:
-    resource: "@SKCMSCKFinderBundle/Resources/config/routing/routing.yml"
-    prefix:   /
-
-skcms_admin:
-    resource: "@SKCMSAdminBundle/Resources/config/routing.yml"
-    prefix:   /admin
-
-ck_finder:
-    resource: "@JonlilCKFinderBundle/Resources/config/routing/routing.yml"
-    prefix: /ckfinder
 

@@ -6,7 +6,7 @@
         
         {%set classes = ['pink','red','blue']%}
         {%set colOffset = ''%}
-        {%for box in list%}
+        {%for box in list.entities%}
             {%if loop.index0 % 4 == 0%}
                 {%set classes = classes|shuffle%}
                 {#{%if loop.revindex == 2%}

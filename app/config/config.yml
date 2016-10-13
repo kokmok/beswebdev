@@ -81,22 +81,6 @@ swiftmailer:
     password:  "%mailer_password%"
     spool:     { type: memory }
     
-jonlil_ck_finder:
-    license: # optional, can be used in demo mode also
-        key: ""
-        name: ""
-    baseDir: "%assetic.read_from%"
-    baseUrl: "/uploads/"  # path where your files will be stored
-    service: "php"
-    
-skcmsck_finder:
-    license: # optional, can be used in demo mode also
-        key: ""
-        name: ""
-    baseDir: "%assetic.read_from%"
-    baseUrl: "/uploads/"  # path where your files will be stored
-    service: "php"
-    
 fos_user:
     db_driver: orm # other valid values are 'mongodb', 'couchdb' and 'propel'
     firewall_name: main
@@ -135,7 +119,9 @@ skcms_admin:
                     
     siteInfo:
         homeRoute: "skcms_front_home"
-        locales: [fr] 
+        locales: [fr]
+        maintenance:
+            enabled: false
     
     menuGroups:
         group1:
@@ -169,6 +155,18 @@ skcms_admin:
                 name:
                     dataName: 'title'
                     beautyName: 'Titre'
+                    type: 'string'
+        UECategory:
+            name: "UECategory"
+            beautyName: 'Categorie de cours'
+            bundle: 'BESCore'
+            class: \BES\CoreBundle\Entity\UECategory
+            form: \BES\CoreBundle\Form\UECategoryType
+            menuGroup: 1
+            listProperties:
+                name:
+                    dataName: 'name'
+                    beautyName: 'Nom'
                     type: 'string'
         Work:
             name: "Work"
@@ -292,3 +290,36 @@ skcms_admin:
 #                    beautyName: 'Titre'
 #                    type: 'string'
 #            sort: 'position'
+fm_elfinder:
+    assets_path: /elfinder/components
+    instances:
+        form:
+            locale: %locale% # defaults to current request locale
+            editor: form # other choices are tinymce or simple, and form
+            fullscreen: true # defaults true, applies to simple and ckeditor editors
+            include_assets: true # disable if you want to handle loading of the javascript and css assets yourself
+            connector:
+                debug: false # defaults to false
+                roots:       # at least one root must be defined
+                    uploads:
+                        driver: LocalFileSystem
+                        path: uploads
+                        upload_allow: ['image/png', 'image/jpg', 'image/jpeg']
+                        upload_deny: ['all']
+                        upload_max_size: 2M
+        default:
+            locale: %locale% # defaults to current request locale
+            editor: ckeditor # other options are tinymce, tinymce4, form, custom and simple
+            fullscreen: true # defaults true, applies to simple and ckeditor editors
+            theme: smoothness # jquery theme
+            include_assets: true # disable if you want to handle loading of the javascript and css assets yourself
+            connector:
+                debug: false # defaults to false
+                roots:       # at least one root must be defined
+                    uploads:
+                        show_hidden: false # defaults to false
+                        driver: LocalFileSystem
+                        path: uploads
+                        upload_allow: ['image/png', 'image/jpg', 'image/jpeg']
+                        upload_deny: ['all']
+                        upload_max_size: 4M

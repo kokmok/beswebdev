@@ -15,7 +15,7 @@ class PageType extends \SKCMS\CoreBundle\Form\PageType
         $builder
             ->add('subtitle',null,['required'=>false])
             ->add('summary',null,['required'=>false])
-            ->add('content','ckfinder',['required'=>false])
+            ->add('content','ckeditor',['required'=>false])
             ->add('picture',new \SKCMS\CoreBundle\Form\SKImageType(),['required'=>false])
             ->add('menu')
             

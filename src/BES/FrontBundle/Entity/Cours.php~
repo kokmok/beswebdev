@@ -2,6 +2,7 @@
 
 namespace BES\FrontBundle\Entity;
 
+use BES\CoreBundle\Entity\UECategory;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
 /**
@@ -67,6 +68,12 @@ class Cours extends \SKCMS\CoreBundle\Entity\SKBaseEntity
      * @ORM\OneToOne(targetEntity="SKCMS\CoreBundle\Entity\SKImage", cascade={"all"})
      */
     private $picture;
+
+    /**
+     * @var UECategory
+     * @ORM\ManyToOne(targetEntity="BES\CoreBundle\Entity\UECategory", inversedBy="cours")
+     */
+    private $category;
 
 
     /**
@@ -173,4 +180,29 @@ class Cours extends \SKCMS\CoreBundle\Entity\SKBaseEntity
         $this->periodes = $periodes;
         return $this;
     }
+    
+    /**
+     * Set picture
+     *
+     * @param \SKCMS\CoreBundle\Entity\SKImage $picture
+     * @return Cours
+     */
+    public function setPicture(\SKCMS\CoreBundle\Entity\SKImage $picture = null)
+    {
+        $this->picture = $picture;
+
+        return $this;
+    }
+
+    /**
+     * Get picture
+     *
+     * @return \SKCMS\CoreBundle\Entity\SKImage 
+     */
+    public function getPicture()
+    {
+        return $this->picture;
+    }
+
+   
 }
