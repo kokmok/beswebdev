@@ -121,7 +121,7 @@ skcms_admin:
         homeRoute: "skcms_front_home"
         locales: [fr]
         maintenance:
-            enabled: false
+            enabled: true
     
     menuGroups:
         group1:
