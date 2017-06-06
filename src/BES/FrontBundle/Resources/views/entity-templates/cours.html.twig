@@ -4,21 +4,28 @@
 {%block content %}
     <section class="container">
     <div class="row">
-    <article class="col-lg-12 col-md-12 col-sm-12 col-xs-12 centered-article text-center">
-        <h1>{{entity.title}}</h1>
-        <h2>{{entity.periodes}} Périodes</h2>
-        <p class=" summary col-lg-6 col-md-6 col-sm-6 col-xs-6 col-lg-offset-3 col-md-offset-3 col-sm-offset-3 col-xs-offset-3 ">
-            {{entity.summary|raw}}
-        </p>
-        <div class="clearfix"></div>
-        <div class="page-content col-sm-7 col-sm-offset-1">
+    <article class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+        <h1 class="no-margin">{{entity.title}}</h1>
+        <h2 class="no-margin">{{entity.periodes}} Périodes</h2>
+        {#<p class=" summary col-lg-6 col-md-6 col-sm-6 col-xs-6 col-lg-offset-3 col-md-offset-3 col-sm-offset-3 col-xs-offset-3 ">#}
+            {#{{entity.summary|raw}}#}
+        {#</p>#}
+        <div class="contentWrapper margin-top-40">
+        {% if entity.picture is not null %}
+            <div class="page-illu col-sm-4">
+                <div class="box-content">
+                    <img src="{{entity.picture}}" class="img-responsive" alt="" />
+                </div>
+            </div>
+        {% endif %}
+        
+        
+        <div class="page-content  {%if entity.picture is not null%}col-sm-6 {%else%}col-sm-12 {%endif%}">
             {{entity.content|raw}}
         </div>
-        {% if entity.picture is not null %}
-        <div class="page-illu col-sm-3">
-            <img src="{{asset(entity.picture)}}" alt="" />
+        <div class="clearfix"></div>
         </div>
-        {% endif %}
+        
     </article>
     </div>
 </section>
