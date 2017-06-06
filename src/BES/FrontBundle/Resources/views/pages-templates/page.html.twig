@@ -22,7 +22,7 @@
             {%if page.picture is not null%}
             <div class="page-illu col-sm-4">
                 <div class="box-content">
-                <img src="{{page.picture}}" class="img-responsive" alt="" />
+                <img src="{{asset(page.picture.__toString)}}" class="img-responsive" alt="" />
                 </div>
             </div>
             {% endif %}
