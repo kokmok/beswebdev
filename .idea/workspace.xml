@@ -119,17 +119,27 @@
         <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
-              <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="34" />
+              <caret line="24" column="57" lean-forward="true" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cours.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1114">
+              <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cours.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/cours.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="16" column="64" lean-forward="false" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+            <state relative-caret-position="322">
+              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -177,16 +187,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SKImage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/skcms/core-bundle/SKCMS/CoreBundle/Entity/SKImage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="363" column="0" lean-forward="false" selection-start-line="363" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -201,10 +201,16 @@
       <find>page.</find>
       <find>page.html</find>
       <find>page.html.</find>
-      <find>page.html.t</find>
       <find>__toS</find>
       <find>page-illu</find>
+      <find>page.html.t</find>
+      <find>h</find>
+      <find>http</find>
+      <find>http://</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
   </component>
   <component name="FrameworkRootSettings" id="Symfony2">
     <option name="typedPaths">
@@ -242,7 +248,6 @@
         <option value="$PROJECT_DIR$/src/BES/CoreBundle/Entity/UECategory.php" />
         <option value="$PROJECT_DIR$/src/BES/CoreBundle/Repository/UECategoryRepository.php" />
         <option value="$PROJECT_DIR$/src/BES/FrontBundle/Form/CoursType.php" />
-        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/students.html.twig" />
         <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/elements/box.html.twig" />
         <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js/custom.js" />
@@ -258,6 +263,7 @@
         <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/work.html.twig" />
         <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/page.html.twig" />
         <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/cours.html.twig" />
+        <option value="$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig" />
       </list>
     </option>
   </component>
@@ -1223,12 +1229,12 @@
       <workItem from="1492680076405" duration="3148000" />
       <workItem from="1496137625168" duration="2492000" />
       <workItem from="1496148444010" duration="2456000" />
-      <workItem from="1496740714677" duration="6398000" />
+      <workItem from="1496740714677" duration="7305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51742000" />
+    <option name="totallyTimeSpent" value="52649000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1486,14 +1492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4186">
-          <caret line="91" column="70" lean-forward="false" selection-start-line="91" selection-start-column="70" selection-end-line="91" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/public/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -1646,18 +1644,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/page.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/cours.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="322">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/entity-templates/cours.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/pages-templates/page.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="16" column="64" lean-forward="false" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        <state relative-caret-position="414">
+          <caret line="24" column="57" lean-forward="true" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BES/FrontBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1114">
+          <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
           <folding />
         </state>
       </provider>
