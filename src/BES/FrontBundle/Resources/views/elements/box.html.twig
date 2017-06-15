@@ -1,6 +1,6 @@
 {%if box|getClass == 'Work'%}
 <article class="col-lg-2 col-md-2 col-sm-3 col-xs-6 text-center student-tile" style="height: 165px;">
-    <div {% if box.picture is defined %}style="background:url({{ asset(box.picture) }});"{% endif %} class="tile-wrapper">
+    <div {% if box.picture is defined %}style="background-image:url({{ asset(box.picture) }});"{% endif %} class="tile-wrapper">
         <a class="student-tileLink pink" href="#">
         <div class="slide-title"><h1 class="student-tile-h1">{{box.title}}</h1>
             <hr class="tile-hr">
@@ -13,7 +13,7 @@
 </article>
 {%else%}
 <article class="{{colOffset}} col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center tile {% if box|getClass == 'Cours' %}filtrable filter-{{ box.category.id }}{% endif %}" style="height: 360px;">
-    <div {% if box.picture is defined and box.picture is not null %}style="background:url({{ asset(box.picture.thumb(0,360)) }});"{% endif %} class="tile-wrapper">
+    <div {% if box.picture is defined and box.picture is not null %}style="background-image:url({{ asset(box.picture.thumb(0,360)) }});"{% endif %} class="tile-wrapper">
         <a class="tileLink {{colorClass}}" href="{{link}}">
             <h1 class="tile-h1">{{title}}</h1>
             <hr class="tile-hr">
