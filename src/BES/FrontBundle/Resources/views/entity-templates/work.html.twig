@@ -14,12 +14,16 @@
         <div class="contentWrapper margin-top-40">
             <div class="page-illu col-sm-4">
                 <div class="box-content">
-                <img src="{{asset(entity.picture.__toString)}}" alt="" />
+                    {% if entity.link is defined and entity.link|length %}<a href="{{ entity.link }}">{% endif %}
+                    <img src="{{asset(entity.picture.__toString)}}" alt="" />
+                    {% if entity.link is defined and entity.link|length %}</a>{% endif %}
+                    
                 </div>
             </div>
             
             <div class="page-content col-sm-8 ">
                 {{entity.content|raw}}
+                {% if entity.link is defined and entity.link|length %}<a href="{{ entity.link }}">{{ entity.link }}</a>{% endif %}
             </div>
             
         </div>

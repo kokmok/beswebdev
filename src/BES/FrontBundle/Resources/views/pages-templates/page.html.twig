@@ -39,7 +39,9 @@
         </div>
     </article>
     </div>
+        {% if page.content|length %}
         <hr>
+        {% endif %}
 </section>
 {%block list %}
 {% if page.menu is defined and page.menu is not null%}

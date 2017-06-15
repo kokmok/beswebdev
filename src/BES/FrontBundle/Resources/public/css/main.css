@@ -43,6 +43,11 @@ h1 {
   margin: 40px 0 -20px;
   text-align: left; }
 
+.page-content {
+  margin-top: 20px; }
+  .page-content h2:first-child, .page-content h3:first-child {
+    margin-top: 0; }
+
 /*.centered-article .page-content h3:nth-of-type(odd) {text-align:left;padding-right:30%;}
 .centered-article .page-content h3:nth-of-type(even) {text-align:right;padding-left:30%;}*/
 .no-margin {
