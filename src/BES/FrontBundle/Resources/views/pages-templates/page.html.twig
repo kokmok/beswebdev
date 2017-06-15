@@ -18,6 +18,7 @@
             {#{{page.summary|raw}}#}
         {#</p>#}
         {#<div class="clearfix"></div>#}
+        {% if page.content is not null and page.content|length %}
         <div class="contentWrapper margin-top-40">
             {%if page.picture is not null%}
             <div class="page-illu col-sm-4">
@@ -37,6 +38,7 @@
             
             {%endif%}
         </div>
+        {% endif %}
     </article>
     </div>
         {% if page.content|length %}
