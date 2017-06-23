@@ -1,6 +1,9 @@
 skcms_admin:
     resource: "@SKCMSAdminBundle/Resources/config/routing.yml"
     prefix:   /admin
+skcms_core:
+    resource: "@SKCMSCoreBundle/Resources/config/routing.yml"
+    prefix:   /
 elfinder:
      resource: "@FMElfinderBundle/Resources/config/routing.yml"
 bes_contact:
